@@ -101,8 +101,8 @@ class TodoListTest < MiniTest::Test
     assert_raises(IndexError) { @list.mark_undone_at(3) }
   end
 
-  # done!
-  def test_done
+  # done!. Method name #test_done is ignored.
+  def test_done_bang
     @list.done!
     assert_equal([true, true, true], @list.to_a.map(&:done?))
   end
