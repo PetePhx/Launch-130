@@ -26,16 +26,16 @@ end
 # F
 #
 # Failure:
-# IcludeTest#test_include [/home/user/Launch/130_blocks_tests/exercises/easy_testing/05_included_onject_assertions.rb:21]:
+# IcludeTest#test_include [/home/user/Launch/130_blocks_tests/exercises/easy_testing/05_included_object_assertions.rb:21]:
 # Expected ["zyx"] to include "xyz".
 #
-# bin/rails test home/user/Launch/130_blocks_tests/exercises/easy_testing/05_included_onject_assertions.rb:19
+# bin/rails test home/user/Launch/130_blocks_tests/exercises/easy_testing/05_included_object_assertions.rb:19
 #
 #
-# Finished in 0.03340s
+# Finished in 0.02755s
 # 1 tests, 4 assertions, 1 failures, 0 errors, 0 skips
 # ]2;[Minitest results] 1 tests
 #
 #
-# Finished in 0.355413s, 2.8136 runs/s, 11.2545 assertions/s.
+# Finished in 0.475192s, 2.1044 runs/s, 8.4177 assertions/s.
 # 1 runs, 4 assertions, 1 failures, 0 errors, 0 skips
