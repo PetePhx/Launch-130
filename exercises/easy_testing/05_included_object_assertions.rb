@@ -10,7 +10,7 @@ require 'minitest/autorun'
 require 'minitest/reporters'
 Minitest::Reporters.use!
 
-class IcludeTest < Minitest::Test
+class IncludeTest < Minitest::Test
   def setup
     @list1 = ['xyz']
     @list2 = ['zyx']
