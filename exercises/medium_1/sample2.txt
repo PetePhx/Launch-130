@@ -1,0 +1,14 @@
+In particle physics, asymptotic freedom is a property of some gauge theories 
+that causes interactions between particles to become asymptotically weaker as
+the energy scale increases and the corresponding length scale decreases.
+
+Asymptotic freedom is a feature of quantum chromodynamics (QCD), the quantum
+field theory of the strong interaction between quarks and gluons, the
+fundamental constituents of nuclear matter. Quarks interact weakly at high
+energies, allowing perturbative calculations. At low energies the interaction
+becomes strong, leading to the confinement of quarks and gluons within composite
+hadrons.
+
+The asymptotic freedom of QCD was discovered in 1973 by David Gross and Frank
+Wilczek,[1] and independently by David Politzer in the same year.[2] For this
+work all three shared the 2004 Nobel Prize in Physics.[3]
