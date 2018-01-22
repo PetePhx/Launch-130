@@ -1,3 +1,11 @@
+=begin
+
+Test Change Method - Cash Register
+
+Write a test for the method, CashRegister#change.
+
+=end
+
 require 'minitest/autorun'
 require "minitest/reporters"
 Minitest::Reporters.use!
@@ -27,3 +35,15 @@ class CashRegisterTest < MiniTest::Test
     assert_equal(5, @cash_reg.change(transaction))
   end
 end
+
+# Running:
+#
+# .========================================================================================|
+# .
+# Finished in 0.03040s
+# 2 tests, 2 assertions, 0 failures, 0 errors, 0 skips
+# ]2;[Minitest results] 2 tests
+#
+#
+# Finished in 0.372239s, 5.3729 runs/s, 5.3729 assertions/s.
+# 2 runs, 2 assertions, 0 failures, 0 errors, 0 skips
